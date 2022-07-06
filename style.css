@@ -226,7 +226,8 @@ div ul li.active {
 
   border: 0;
   cursor: pointer;
+  transition: 0.2s;
 }
 .donate2:hover {
-  background-color: pink;
+  background-color: rgb(224, 53, 82);
 }

@@ -227,3 +227,6 @@ div ul li.active {
   border: 0;
   cursor: pointer;
 }
+.donate2:hover {
+  background-color: pink;
+}
